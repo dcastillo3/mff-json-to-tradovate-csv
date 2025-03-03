@@ -8,14 +8,12 @@ const buy = "Buy";
 const sell = "Sell";
 const nq = "E-Mini NASDAQ 100";
 const long = "LONG";
+const input = 'input';
+const output = 'output';
 
 // Set import and export file names
 const importFile = 'MFFData.json';
 const exportFile = 'TradovateData.csv';
-
-// Set import and export directories
-const importDirectory = 'input';
-const exportDirectory = 'output';
 
 export { 
     tradovateColumns,
@@ -25,6 +23,6 @@ export {
     long,
     importFile,
     exportFile,
-    importDirectory,
-    exportDirectory
+    input,
+    output
 };

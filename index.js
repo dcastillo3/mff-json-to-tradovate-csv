@@ -11,8 +11,8 @@ import {
     tradovateColumns,
     importFile,
     exportFile,
-    importDirectory,
-    exportDirectory
+    input,
+    output
 } from './consts/index.js';
 
 // Define the __filename and __dirname variables, ES6-style
@@ -44,8 +44,8 @@ const convertMFFJsonToCSV = (jsonFilePath, csvFilePath) => {
 };
 
 // Define the paths to the input JSON file and the output CSV file
-const inputJsonPath = path.join(__dirname, importDirectory, importFile);
-const outputCsvPath = path.join(__dirname, exportDirectory, exportFile);
+const inputJsonPath = path.join(__dirname, input, importFile);
+const outputCsvPath = path.join(__dirname, output, exportFile);
 
 // Convert the MFF JSON file to a CSV file
 convertMFFJsonToCSV(inputJsonPath, outputCsvPath);
