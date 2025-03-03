@@ -1,0 +1,1 @@
+Convert MFF JSON (captured in network tab) to Tradovate formatted CSV for TradeZella import.
