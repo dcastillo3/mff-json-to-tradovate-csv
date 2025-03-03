@@ -1,0 +1,11 @@
+{
+  "name": "mff-json-to-tradovate-csv",
+  "version": "1.0.0",
+  "description": "Convert MFF JSON (captured in network tab) to Tradovate formatted CSV for TradeZella import.",
+  "main": "convertMFFJSONToTradovateCSV.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "dcastillo3",
+  "license": "ISC"
+}
