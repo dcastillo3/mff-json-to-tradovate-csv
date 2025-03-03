@@ -1,0 +1,973 @@
+{
+    "ok": {
+        "previous_page": null,
+            "next_page": null,
+                "data": [
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "SHORT",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1735052934998
+                        ],
+                        "market_entries": [
+                            21940.0
+                        ],
+                        "avg_market_entry": 21940.0,
+                        "close_datetimes": [
+                            1735052943398,
+                            1735052943516
+                        ],
+                        "market_closes": [
+                            21934.0,
+                            21934.0
+                        ],
+                        "total_sells": 2,
+                        "avg_market_close": 21934.0,
+                        "winner_loser": "WIN",
+                        "market_profit": 6.0,
+                        "percent_return_avg_market": 0.03,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            3,
+                            1.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-24T23:11:14.949089",
+                        "order_ids": [
+                            156085290911,
+                            156085290928,
+                            "156085290937"
+                        ],
+                        "gross_profit": 480.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 461.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-24",
+                        "close_date": "2024-12-24",
+                        "open_datetime": "2024-12-24T15:08:54.998000",
+                        "close_datetime": "2024-12-24T15:09:03.516000",
+                        "seconds_held": 9.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "vsHw-pMBVmdvAUcqVqcl",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 24, 10:08:54AM",
+                                    "price": 21940.0,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [
+                                "3 @ 21934.0 on Dec 24, 10:09:03AM"
+                            ],
+                            "close": {
+                                "date": "Dec 24, 10:09:03AM",
+                                "price": 21934.0,
+                                "quantity": 1
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "SHORT",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1735052483649
+                        ],
+                        "market_entries": [
+                            21920.0
+                        ],
+                        "avg_market_entry": 21920.0,
+                        "close_datetimes": [
+                            1735052524142
+                        ],
+                        "market_closes": [
+                            21912.0
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21912.0,
+                        "winner_loser": "WIN",
+                        "market_profit": 8.0,
+                        "percent_return_avg_market": 0.04,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-24T23:11:14.937696",
+                        "order_ids": [
+                            156085290863,
+                            "156085290875"
+                        ],
+                        "gross_profit": 640.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 621.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-24",
+                        "close_date": "2024-12-24",
+                        "open_datetime": "2024-12-24T15:01:23.649000",
+                        "close_datetime": "2024-12-24T15:02:04.142000",
+                        "seconds_held": 40.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "vcHw-pMBVmdvAUcqVqcl",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 24, 10:01:23AM",
+                                    "price": 21920.0,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 24, 10:02:04AM",
+                                "price": 21912.0,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "LONG",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1735052458262
+                        ],
+                        "market_entries": [
+                            21905.5
+                        ],
+                        "avg_market_entry": 21905.5,
+                        "close_datetimes": [
+                            1735052470661
+                        ],
+                        "market_closes": [
+                            21908.75
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21908.75,
+                        "winner_loser": "WIN",
+                        "market_profit": 3.25,
+                        "percent_return_avg_market": 0.01,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-24T23:11:14.924133",
+                        "order_ids": [
+                            156085290840,
+                            "156085290855"
+                        ],
+                        "gross_profit": 260.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 241.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-24",
+                        "close_date": "2024-12-24",
+                        "open_datetime": "2024-12-24T15:00:58.262000",
+                        "close_datetime": "2024-12-24T15:01:10.661000",
+                        "seconds_held": 12.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "vMHw-pMBVmdvAUcqVqcl",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 24, 10:00:58AM",
+                                    "price": 21905.5,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 24, 10:01:10AM",
+                                "price": 21908.75,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "LONG",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1735052392640
+                        ],
+                        "market_entries": [
+                            21903.0
+                        ],
+                        "avg_market_entry": 21903.0,
+                        "close_datetimes": [
+                            1735052400588
+                        ],
+                        "market_closes": [
+                            21909.5
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21909.5,
+                        "winner_loser": "WIN",
+                        "market_profit": 6.5,
+                        "percent_return_avg_market": 0.03,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-24T23:11:14.911059",
+                        "order_ids": [
+                            156085290818,
+                            "156085290829"
+                        ],
+                        "gross_profit": 520.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 501.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-24",
+                        "close_date": "2024-12-24",
+                        "open_datetime": "2024-12-24T14:59:52.640000",
+                        "close_datetime": "2024-12-24T15:00:00.588000",
+                        "seconds_held": 8.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "u8Hw-pMBVmdvAUcqVqcl",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 24, 09:59:52AM",
+                                    "price": 21903.0,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 24, 10:00:00AM",
+                                "price": 21909.5,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "SHORT",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "DAYTRADE",
+                        "entry_datetimes": [
+                            1734986527097
+                        ],
+                        "market_entries": [
+                            21740.0
+                        ],
+                        "avg_market_entry": 21740.0,
+                        "close_datetimes": [
+                            1734987278501
+                        ],
+                        "market_closes": [
+                            21735.5
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21735.5,
+                        "winner_loser": "WIN",
+                        "market_profit": 4.5,
+                        "percent_return_avg_market": 0.02,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-23T23:18:41.084910",
+                        "order_ids": [
+                            156085290526,
+                            "156085290552"
+                        ],
+                        "gross_profit": 360.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 341.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-23",
+                        "close_date": "2024-12-23",
+                        "open_datetime": "2024-12-23T20:42:07.097000",
+                        "close_datetime": "2024-12-23T20:54:38.501000",
+                        "seconds_held": 751.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "qUnQ9ZMBMkZgx5UcyFvz",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 23, 03:42:07PM",
+                                    "price": 21740.0,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 23, 03:54:38PM",
+                                "price": 21735.5,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "SHORT",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1734985869587,
+                            1734985869587
+                        ],
+                        "market_entries": [
+                            21720.0,
+                            21720.0
+                        ],
+                        "avg_market_entry": 21720.0,
+                        "close_datetimes": [
+                            1734985904694
+                        ],
+                        "market_closes": [
+                            21714.0
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21714.0,
+                        "winner_loser": "WIN",
+                        "market_profit": 6.0,
+                        "percent_return_avg_market": 0.03,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            3,
+                            1
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-23T23:18:41.062680",
+                        "order_ids": [
+                            156085290465,
+                            156085290468,
+                            "156085290479"
+                        ],
+                        "gross_profit": 480.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 461.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-23",
+                        "close_date": "2024-12-23",
+                        "open_datetime": "2024-12-23T20:31:09.587000",
+                        "close_datetime": "2024-12-23T20:31:44.694000",
+                        "seconds_held": 35.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "qEnQ9ZMBMkZgx5UcyFvz",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 23, 03:31:09PM",
+                                    "price": 21720.0,
+                                    "quantity": 3
+                                },
+                                {
+                                    "date": "Dec 23, 03:31:09PM",
+                                    "price": 21720.0,
+                                    "quantity": 3
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 23, 03:31:44PM",
+                                "price": 21714.0,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "SHORT",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1734980858927
+                        ],
+                        "market_entries": [
+                            21760.0
+                        ],
+                        "avg_market_entry": 21760.0,
+                        "close_datetimes": [
+                            1734981053698
+                        ],
+                        "market_closes": [
+                            21752.5
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21752.5,
+                        "winner_loser": "WIN",
+                        "market_profit": 7.5,
+                        "percent_return_avg_market": 0.03,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-23T23:18:41.046132",
+                        "order_ids": [
+                            156085290434,
+                            "156085290441"
+                        ],
+                        "gross_profit": 600.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 581.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-23",
+                        "close_date": "2024-12-23",
+                        "open_datetime": "2024-12-23T19:07:38.927000",
+                        "close_datetime": "2024-12-23T19:10:53.698000",
+                        "seconds_held": 195.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "p0nQ9ZMBMkZgx5UcyFvz",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 23, 02:07:38PM",
+                                    "price": 21760.0,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 23, 02:10:53PM",
+                                "price": 21752.5,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "SHORT",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1734978948519
+                        ],
+                        "market_entries": [
+                            21740.0
+                        ],
+                        "avg_market_entry": 21740.0,
+                        "close_datetimes": [
+                            1734978975124
+                        ],
+                        "market_closes": [
+                            21733.75
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21733.75,
+                        "winner_loser": "WIN",
+                        "market_profit": 6.25,
+                        "percent_return_avg_market": 0.03,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-23T23:18:41.034525",
+                        "order_ids": [
+                            156085290402,
+                            "156085290408"
+                        ],
+                        "gross_profit": 500.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 481.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-23",
+                        "close_date": "2024-12-23",
+                        "open_datetime": "2024-12-23T18:35:48.519000",
+                        "close_datetime": "2024-12-23T18:36:15.124000",
+                        "seconds_held": 27.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "pknQ9ZMBMkZgx5UcyFvz",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 23, 01:35:48PM",
+                                    "price": 21740.0,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 23, 01:36:15PM",
+                                "price": 21733.75,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "SHORT",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "DAYTRADE",
+                        "entry_datetimes": [
+                            1734977237139
+                        ],
+                        "market_entries": [
+                            21720.0
+                        ],
+                        "avg_market_entry": 21720.0,
+                        "close_datetimes": [
+                            1734977886961
+                        ],
+                        "market_closes": [
+                            21708.5
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21708.5,
+                        "winner_loser": "WIN",
+                        "market_profit": 11.5,
+                        "percent_return_avg_market": 0.05,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-23T23:18:41.021822",
+                        "order_ids": [
+                            156085290358,
+                            "156085290394"
+                        ],
+                        "gross_profit": 920.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 901.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-23",
+                        "close_date": "2024-12-23",
+                        "open_datetime": "2024-12-23T18:07:17.139000",
+                        "close_datetime": "2024-12-23T18:18:06.961000",
+                        "seconds_held": 650.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "pUnQ9ZMBMkZgx5UcyFvz",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 23, 01:07:17PM",
+                                    "price": 21720.0,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 23, 01:18:06PM",
+                                "price": 21708.5,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "SHORT",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1734974714825
+                        ],
+                        "market_entries": [
+                            21680.0
+                        ],
+                        "avg_market_entry": 21680.0,
+                        "close_datetimes": [
+                            1734974740188
+                        ],
+                        "market_closes": [
+                            21674.0
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21674.0,
+                        "winner_loser": "WIN",
+                        "market_profit": 6.0,
+                        "percent_return_avg_market": 0.03,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-23T23:18:41.003473",
+                        "order_ids": [
+                            156085290323,
+                            "156085290334"
+                        ],
+                        "gross_profit": 480.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 461.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-23",
+                        "close_date": "2024-12-23",
+                        "open_datetime": "2024-12-23T17:25:14.825000",
+                        "close_datetime": "2024-12-23T17:25:40.188000",
+                        "seconds_held": 25.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "pEnQ9ZMBMkZgx5UcyFvz",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 23, 12:25:14PM",
+                                    "price": 21680.0,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 23, 12:25:40PM",
+                                "price": 21674.0,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "SHORT",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1734972240337
+                        ],
+                        "market_entries": [
+                            21680.0
+                        ],
+                        "avg_market_entry": 21680.0,
+                        "close_datetimes": [
+                            1734972333354
+                        ],
+                        "market_closes": [
+                            21668.75
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21668.75,
+                        "winner_loser": "WIN",
+                        "market_profit": 11.25,
+                        "percent_return_avg_market": 0.05,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-23T23:18:40.983826",
+                        "order_ids": [
+                            156085290270,
+                            "156085290276"
+                        ],
+                        "gross_profit": 900.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 881.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-23",
+                        "close_date": "2024-12-23",
+                        "open_datetime": "2024-12-23T16:44:00.337000",
+                        "close_datetime": "2024-12-23T16:45:33.354000",
+                        "seconds_held": 93.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "o0nQ9ZMBMkZgx5UcyFvz",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 23, 11:44:00AM",
+                                    "price": 21680.0,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 23, 11:45:33AM",
+                                "price": 21668.75,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "LONG",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1734966568150
+                        ],
+                        "market_entries": [
+                            21520.75
+                        ],
+                        "avg_market_entry": 21520.75,
+                        "close_datetimes": [
+                            1734966779409
+                        ],
+                        "market_closes": [
+                            21539.25
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21539.25,
+                        "winner_loser": "WIN",
+                        "market_profit": 18.5,
+                        "percent_return_avg_market": 0.09,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-23T23:18:40.972328",
+                        "order_ids": [
+                            156085290119,
+                            "156085290144"
+                        ],
+                        "gross_profit": 1480.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 1461.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-23",
+                        "close_date": "2024-12-23",
+                        "open_datetime": "2024-12-23T15:09:28.150000",
+                        "close_datetime": "2024-12-23T15:12:59.409000",
+                        "seconds_held": 211.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "oknQ9ZMBMkZgx5UcyFvz",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 23, 10:09:28AM",
+                                    "price": 21520.75,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 23, 10:12:59AM",
+                                "price": 21539.25,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    },
+                    {
+                        "tradehash": "206753192629",
+                        "status": "CLOSED",
+                        "short_long": "LONG",
+                        "asset": "NQH5",
+                        "type": "FUTURES",
+                        "period": "SCALP",
+                        "entry_datetimes": [
+                            1734965436498
+                        ],
+                        "market_entries": [
+                            21560.0
+                        ],
+                        "avg_market_entry": 21560.0,
+                        "close_datetimes": [
+                            1734965453471
+                        ],
+                        "market_closes": [
+                            21569.25
+                        ],
+                        "total_sells": 1,
+                        "avg_market_close": 21569.25,
+                        "winner_loser": "WIN",
+                        "market_profit": 9.25,
+                        "percent_return_avg_market": 0.04,
+                        "is_breakeven_market": false,
+                        "account_id": "16588763",
+                        "quantities_bought": [
+                            4
+                        ],
+                        "quantities_sold": [
+                            4.0
+                        ],
+                        "net_position": 0,
+                        "tradetracker_id": 1501751,
+                        "updated_at": "2024-12-23T23:18:40.961247",
+                        "order_ids": [
+                            156085290044,
+                            "156085290068"
+                        ],
+                        "gross_profit": 740.0,
+                        "commission_and_fees": 18.72,
+                        "net_profit": 721.28,
+                        "total_contracts": 4.0,
+                        "open_date": "2024-12-23",
+                        "close_date": "2024-12-23",
+                        "open_datetime": "2024-12-23T14:50:36.498000",
+                        "close_datetime": "2024-12-23T14:50:53.471000",
+                        "seconds_held": 17.0,
+                        "aggregation_basis": "bias",
+                        "broker": "Tradovate",
+                        "environment": "demo",
+                        "user_id": "207363",
+                        "stage": "evaluation",
+                        "id": "oUnQ9ZMBMkZgx5UcyFvz",
+                        "extra_data": {
+                            "entries": [
+                                {
+                                    "date": "Dec 23, 09:50:36AM",
+                                    "price": 21560.0,
+                                    "quantity": 4
+                                }
+                            ],
+                            "trims": [],
+                            "close": {
+                                "date": "Dec 23, 09:50:53AM",
+                                "price": 21569.25,
+                                "quantity": 4.0
+                            }
+                        },
+                        "user": 207363,
+                        "username": "dcastillo3"
+                    }
+                ],
+                    "total": 13
+    }
+}

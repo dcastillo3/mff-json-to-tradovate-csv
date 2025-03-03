@@ -4,8 +4,14 @@
   "description": "Convert MFF JSON (captured in network tab) to Tradovate formatted CSV for TradeZella import.",
   "main": "convertMFFJSONToTradovateCSV.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "author": "dcastillo3",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "json2csv": "^6.0.0-alpha.2"
+  }
 }
