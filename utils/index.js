@@ -1,5 +1,10 @@
 import chalk from "chalk";
-import { buy, long, nq, sell } from "../consts/index.js";
+import { 
+    buy, 
+    long,
+    defaultDescription,
+    sell,
+} from "../consts/index.js";
 
 const formatDate = timestamp => {
     const date = new Date(timestamp);
@@ -33,6 +38,10 @@ const buildEntryExitRows = trade => {
     const closeTimestamp = formatDate(closeDatetime);
     const entryPosition = (short_long === long) ? buy : sell;
     const exitPosition = (short_long === long) ? sell : buy;
+    // Extract base instrument from future symbol
+    // e.g. "ESZ23" -> "ES"
+    // e.g. "NQH23" -> "NQ"
+    const productSymbol = asset.replace(/[FGHJKMNQUVXZ]\d+$/, '');
 
     const entryRow = {
         "orderId": order_ids?.[0] || "",
@@ -40,8 +49,8 @@ const buildEntryExitRows = trade => {
         "Order ID": tradehash,
         "B/S": entryPosition,
         "Contract": asset,
-        "Product": "NQ",
-        "Product Description": nq,
+        "Product": productSymbol,
+        "Product Description": defaultDescription,
         "avgPrice": avg_market_entry,
         "filledQty": total_contracts,
         "Fill Time": entryTimestamp,

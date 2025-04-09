@@ -6,7 +6,7 @@ const tradovateColumns = [
 
 const buy = "Buy";
 const sell = "Sell";
-const nq = "E-Mini NASDAQ 100";
+const defaultDescription = "";
 const long = "LONG";
 const input = 'input';
 const output = 'output';
@@ -19,7 +19,7 @@ export {
     tradovateColumns,
     buy,
     sell,
-    nq,
+    defaultDescription,
     long,
     importFile,
     exportFile,
